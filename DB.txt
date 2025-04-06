@@ -1,1 +1,7 @@
 This is a script
+<<<<<<< HEAD
+=======
+This is updated in new branc
+This is as a prt of stash
+This is a cherry pick
+>>>>>>> 02f940a (Cheery pick)
